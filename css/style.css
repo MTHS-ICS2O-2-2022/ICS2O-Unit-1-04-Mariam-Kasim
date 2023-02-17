@@ -13,8 +13,8 @@ p {
 
 #myheader {
   background-color:
-  rgb(246 92 151)
-      color hsl(85, 67%, 92%);
+    rgb(246 92 151)
+    color hsl(85% 67% 92%);
   padding: 40;
   text-align: center;
 }
