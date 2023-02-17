@@ -3,17 +3,17 @@
 * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS 
 */
 
-
 body {
   background-color: rgb(230, 176, 203);
 }
 
-h1 {
+p {
   background-color: rgb(158, 121, 201);
-  color: hsl(86, 100, 87);
-  padding: 40;
-  text-align: center;
 }
 
-p {background-color:rgb(246, 92, 151)
+#myheader {
+  background-color: rgb(246, 92, 151)
+  color hsl(86, 100, 87);
+  padding: 40;
+  text-align: center;
 }
